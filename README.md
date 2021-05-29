@@ -78,3 +78,14 @@
 | 70.   | 80 + Computer vision Learning code                           | https://bit.ly/3hKCpkm              |
 | 71.   | Deep learning Treasure                                       | https://bit.ly/359zLQb              |
 
+
+
+## Contributors
+FirstName | LastName
+--- | ---
+Hasaan |  Khattak
+Submit |  Pull Request
+
+
+## License
+Anyone may contribute 
